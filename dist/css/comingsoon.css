@@ -18,7 +18,7 @@ p {
 }
 
 .container {
-  background: url("/assets/img/Home.png") no-repeat center center/cover;
+  background: cornflowerblue;
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
