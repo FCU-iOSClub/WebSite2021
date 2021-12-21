@@ -1,6 +1,7 @@
 /*=============== MEDIA QUERIES ===============*/
 /* For small devices */
 @media screen and (max-width: 360px){
+
     .svg__img{
         width: 100%;
     }
@@ -16,10 +17,21 @@
     .app__buttons{
         grid-template-columns: max-content;
     }
+
+    h1 {
+        width: 100%;
+            font-size: 20px;
+    
+    }
 }
 
 /* For medium devices */
 @media screen and (min-width: 576px){
+
+    .container_inside {
+        width: 100%;
+    }
+
     .svg__img{
         width: 100%;
     }
@@ -64,6 +76,11 @@
 }
 
 @media screen and (min-width: 767px){
+
+    .container_inside {
+        width: 100%;
+    }
+
     body{
         margin: 0;
     }
@@ -99,6 +116,11 @@
 
 /* For large devices */
 @media screen and (min-width: 968px){
+
+    .container_inside {
+        width: 100%;
+    }
+
     .button__header{
         display: block;
     }
@@ -137,6 +159,11 @@
 }
 
 @media screen and (min-width: 1024px){
+
+    .container_inside {
+        width: 100%;
+    }
+
     .container{
         margin-left: auto;
         margin-right: auto;
