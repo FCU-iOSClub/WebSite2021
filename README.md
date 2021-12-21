@@ -1,5 +1,9 @@
 # iOSClub_Web
 
+## 部署方法
+
+master 分支中的 dist，會自動被部署的到 CloudFlare Pages。
+
 ## Assets
 
 本網站使用資源：
