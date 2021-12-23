@@ -2,7 +2,7 @@
 
 ## 部署方法
 
-master 分支中的 dist，會自動被部署的到 CloudFlare Pages。
+master 分支中的 dist，會自動被部署的到 CloudFlare Pages。  -- 5th 技術留
 
 ## Assets
 
